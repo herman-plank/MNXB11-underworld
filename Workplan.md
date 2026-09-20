@@ -16,4 +16,6 @@
 | Task | Owner | Estimate (Hours) | Due Date | Dependencies |
 | :--- | :--- | :--- | :--- | :--- |
 | [Task name] | [Name] | [Hours] | [Date] | [None / Task ID] |
+| Find the underworld | Charlotte | 3h | 26.09.26 | - |
+
 
