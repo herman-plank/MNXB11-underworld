@@ -15,7 +15,7 @@
 
 | Task | Owner | Estimate (Hours) | Due Date | Dependencies |
 | :--- | :--- | :--- | :--- | :--- |
-| [Task name] | [Name] | [Hours] | [Date] | [None / Task ID] |
+| Wizard training | Herman | 1 week | 28.09.26 | - |
 | Find the underworld | Charlotte | 3h | 26.09.26 | - |
 
 
